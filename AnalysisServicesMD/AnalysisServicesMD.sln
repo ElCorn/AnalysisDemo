@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "AnalysisServicesMD", "AnalysisServicesMD.dwproj", "{4EE53428-A901-4059-8D75-D84CE7905378}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EE53428-A901-4059-8D75-D84CE7905378}.Development|Default.ActiveCfg = Development
+		{4EE53428-A901-4059-8D75-D84CE7905378}.Development|Default.Build.0 = Development
+		{4EE53428-A901-4059-8D75-D84CE7905378}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
